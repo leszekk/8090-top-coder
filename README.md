@@ -7,13 +7,13 @@ Traditional rule-based reimbursement calculators often struggle with the complex
 
 
 ## Files
-> train_model.py - Script to train the XGBoost model
-> run.sh - bash script to trigger reimbursement calculation 
-> calculate_reimbursement.py -  Script that calculates reimbursements using the trained model
-> reimbursement_model.json - The trained model file (generated after training)
-> public_cases.json - Dataset with 1000 examples used for model training
-> private_cases.json - Dataset with 5000 submissions
-> requirements.txt - python dependencies that the code needs to run properly
-> reimbursement_evaluation_20250607_224809.log - reimbursement calculation log with execution time and error rate
+* train_model.py - Script to train the XGBoost model
+* run.sh - bash script to trigger reimbursement calculation 
+* calculate_reimbursement.py -  Script that calculates reimbursements using the trained model
+* reimbursement_model.json - The trained model file (generated after training)
+* public_cases.json - Dataset with 1000 examples used for model training
+* private_cases.json - Dataset with 5000 submissions
+* requirements.txt - python dependencies that the code needs to run properly
+* reimbursement_evaluation_20250607_224809.log - reimbursement calculation log with execution time and error rate
 
 ## [License](LICENSE.md) - MIT
