@@ -7,6 +7,7 @@ Conventional rule-based reimbursement systems often fall short when handling the
 
 
 ## Evaluation Status
+```
 ✅ Evaluation Complete!
 
 📈 Results Summary:
@@ -19,7 +20,7 @@ Conventional rule-based reimbursement systems often fall short when handling the
 
   🎯 Your Score: 3509.70 (lower is better)
   🥉 Good progress! You understand some key patterns.
-
+```
 
 ## Files
 ### Core Components
