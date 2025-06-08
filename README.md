@@ -35,5 +35,6 @@ Conventional rule-based reimbursement systems often fall short when handling the
 * `private_cases.json` – Dataset with 5,000 test records for submission evaluation.
 * `requirements.txt` – Lists necessary Python packages for running the code.
 * `reimbursement_evaluation_20250607_224809.log` – Execution log with runtime stats and error metrics.
+* `generate_results.sh` - Updated script to process private cases in parallel
 
 ## [License](LICENSE.md) - MIT License
