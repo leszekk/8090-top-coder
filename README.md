@@ -6,6 +6,21 @@ This repository presents a machine learning-based approach for calculating trave
 Conventional rule-based reimbursement systems often fall short when handling the nuanced policies found in real-world scenarios. Attempts to reverse engineer such logic using GenAI lacked precision. This project replaces rigid conditional logic with a data-driven machine learning model capable of capturing subtle patterns and delivering accurate reimbursement estimates.
 
 
+## Evaluation Status
+✅ Evaluation Complete!
+
+📈 Results Summary:
+  Total test cases: 1000
+  Successful runs: 1000
+  Exact matches (±$0.01): 533 (53.3%)
+  Close matches (±$1.00): 802 (80.2%)
+  Average error: $34.63
+  Maximum error: $701.45
+
+  🎯 Your Score: 3509.70 (lower is better)
+  🥉 Good progress! You understand some key patterns.
+
+
 ## Files
 ### Core Components
 * `train_model.py`  – Trains the XGBoost model on provided data.
